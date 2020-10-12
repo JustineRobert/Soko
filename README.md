@@ -1,3 +1,6 @@
+Soko is a Swahili word literally translated to mean Market and as an Africa, we're really blessed to have a wide variety of products ranging from fresh organic foods, cash crops like cashew nuts, cotton, coffee,  Cocoa, Fresh Vanilla, Red Bird eye chilies, etc., and to natural resources like gold in the Congo, copper, iron, oil & gas, etc., and yet the other continents still define us as the poorest continent on the globe! We can put an end to this by showcasing the massive variety of African products in one store that we have in an online available ready market which can be accessed anywhere by anyone looking for an African product on the globe. LIVE PREVIEW LINK 👇
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
