@@ -16,7 +16,6 @@ function Home() {
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_BO1,204,203,200_.jpg"
           />
-          <button>Add to Basket</button>
           <Product
             id="49538094"
             title="Kenwood kMix Stand Mixer for Baking, Stylish Kitchen Mixer with K-beater, Dough Hook and Whisk, 5 Litre Glass Bowl"
@@ -24,7 +23,6 @@ function Home() {
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
           />
-          <button>Add to Basket</button>
         </div>
 
         <div className="home__row">
@@ -35,7 +33,6 @@ function Home() {
             rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
           />
-          <button>Add to Basket</button>
           <Product
             id="23445930"
             title="Amazon Echo (3rd generation) | Smart speaker with Alexa, Charcoal Fabric"
@@ -43,7 +40,6 @@ function Home() {
             rating={5}
             image="https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
           />
-          <button>Add to Basket</button>
           <Product
             id="3254354345"
             title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Silver (4th Generation)"
@@ -51,7 +47,6 @@ function Home() {
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
           />
-          <button>Add to Basket</button>
         </div>
 
         <div className="home__row">
@@ -62,10 +57,8 @@ function Home() {
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/6125mFrzr6L._AC_SX355_.jpg"
           />
-          <button>Add to Basket</button>
         </div>
       </div>
-  
     </div>
   );
 }
