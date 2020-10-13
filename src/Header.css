@@ -1,5 +1,5 @@
 .header {
-  height: 60px;
+  height: 100px;
   display: flex;
   align-items: center;
   background-color: #131921;
@@ -9,10 +9,10 @@
 }
 
 .header__logo {
-  width: 50px;
+  width: 100px;
   object-fit: contain;
   margin: 0 20px;
-  margin-top: 15px;
+  margin-top: 18px;
 }
 
 .header__search {
@@ -22,10 +22,17 @@
   border-radius: 24px;
 }
 
+.header__searchInput {
+  height: 12px;
+  padding: 10px;
+  border: none;
+  width: 100%;
+}
+
 .header__searchIcon {
   padding: 5px;
   height: 22px !important;
-  background-color: #cd9042;
+  background-color: #9cff33;
 }
 
 .header__optionLineOne {

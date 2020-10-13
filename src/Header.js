@@ -9,11 +9,9 @@ function Header() {
       <img
        className='header__logo' src='https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_thumbnail_photos/001/244/731/datas/medium.png' alt='Soko' 
       />
-      <div className='header__search'>
-      <input
-      className= 'header__searchInput' type='text'/>
-      <SearchIcon
-      className='header__searchIcon'/>
+      <div className="header__search">
+        <input className="header__searchInput" type="text" />
+        <SearchIcon className="header__searchIcon" />
       </div>
 
       <div className='header__nav'>
