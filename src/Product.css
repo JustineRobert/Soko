@@ -12,6 +12,10 @@
   z-index: 1;
 }
 
+.product__rating {
+  display: flex;
+}
+
 .product > img {
   max-height: 200px;
   width: 100%;
@@ -20,10 +24,10 @@
 }
 
 .product > button {
-  background: #f0c14b;
+  background: #9CFF33;
   border: 1px solid;
   margin-top: 10px;
-  border-color: #a88734 #9c7e31 #846a29;
+  border-color: #beff33 #ddff33 #e9ff33;
   color: #111;
 }
 
