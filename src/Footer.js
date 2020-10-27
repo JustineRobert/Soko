@@ -68,7 +68,7 @@ function Footer() {
         />
         <span className="Footer__Line-message">
           Soko App developed by &copy;{" "}
-          <a href="https://mystifying-jepsen-d3b3a4.netlify.app/" target="_blank">
+          <a href="https://hardcore-kirch-16b7ec.netlify.app/" target="_blank">
             STJ
           </a>
         </span>
