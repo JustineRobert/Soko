@@ -138,7 +138,7 @@ function Header() {
           <span>Gift Ideas</span>
           <span>Customer Service</span>
           <span>Fashion</span>
-          <span>Amazon Pay</span>
+          <span>Soko Pay</span>
           */}
         </div>
         {/* Advt */}
